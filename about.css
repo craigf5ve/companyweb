@@ -1,0 +1,52 @@
+/* Additions to style.css */
+
+/* About Styles */
+
+.about-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .about-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .about-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .about-section li {
+    margin-bottom: 20px;
+  }
+  
+  .about-section img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 10px;
+  }
+  
+  .about-section h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .awards-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .awards-section li {
+    margin-bottom: 20px;
+  }
+  
+  .awards-section img {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+  }
